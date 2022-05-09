@@ -2,7 +2,7 @@
 ## Objetivos:
 O objetivo dessa atividade é praticar implementação e comparação de métodos de Ordenação. 
 
-Espera-se que ao final desta atividade você seja capaz de classificar informaçoes usando métodos básicos de ordenação e 
+Espera-se que ao final desta atividade você seja capaz de classificar informaçoes usando métodos básicos e eficientes de ordenação e 
 compreender os principais conceitos por trás desses métodos.
 
 ## 📝 Métodos de Ordenação Básicos:
