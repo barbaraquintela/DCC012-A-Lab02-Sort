@@ -1,2 +1,0 @@
-/Users/barbarademeloquintela/miniconda3/envs/cmake-tutorial/bin/x86_64-apple-darwin13.4.0-ar qc libsiga.a CMakeFiles/siga.dir/src/estudante.cc.o CMakeFiles/siga.dir/src/siga.cc.o
-/Users/barbarademeloquintela/miniconda3/envs/cmake-tutorial/bin/llvm-ranlib libsiga.a
