@@ -1,5 +1,4 @@
-# Algoritmos de Ordenação (Parte 1)
-
+# Algoritmos de Ordenação 
 ## Objetivos:
 O objetivo dessa atividade é praticar implementação e comparação de métodos de Ordenação. 
 
